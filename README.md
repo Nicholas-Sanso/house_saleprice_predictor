@@ -25,7 +25,7 @@ Create a model that will predict the sales price of housing in low and medium de
 4. Standardize all the features and PCA the highly correlated ones
 5. Fit and evaluate the model.
 
-<img src="data_flow.png" alt="Alt text" width="800" height="400">
+<img src="media/data_flow.png" alt="Alt text" width="800" height="400">
 
 ## [Data Description](#section-title)
 The target variable is sales price with the value of miscelaneous items removed.<br>
